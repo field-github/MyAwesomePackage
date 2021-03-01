@@ -13,6 +13,6 @@ makedocs(sitename="MyAwesomePackage.jl Documentation",
 # See "Hosting Documentation" and deploydocs() in the Documenter manual
 # for more information.
 deploydocs(
-    repo = "github.com/sylvaticus/MyAwesomePackage.jl.git",
+    repo = "github.com/field-github/MyAwesomePackage.jl.git",
     devbranch = "main"
 )
