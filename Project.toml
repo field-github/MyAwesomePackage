@@ -1,0 +1,9 @@
+name = "MyAwesomePackage"
+uuid = "13383106-796c-11eb-0448-2b6f8ea56473"
+authors = ["John Everett Field <jfield@dorringtoninstruments.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
