@@ -1,22 +1,13 @@
 name = "MyAwesomePackage"
-<<<<<<< HEAD
-uuid = "19daf8e9-0870-4f25-9c1d-f38ed379fe1e"
-authors = ["Antonello Lobianco <antonello@lobianco.org>"]
-version = "0.0.1"
-=======
 uuid = "13383106-796c-11eb-0448-2b6f8ea56473"
 authors = ["John Everett Field <jfield@dorringtoninstruments.com>"]
 version = "0.1.0"
->>>>>>> dd341dcd4d7b4ab4a17c8b84d9da86f504e18d83
 
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-<<<<<<< HEAD
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 
 [compat]
 DataFrames = "0.21, 0.22"
 julia = "1.0.1"
-=======
-Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
->>>>>>> dd341dcd4d7b4ab4a17c8b84d9da86f504e18d83

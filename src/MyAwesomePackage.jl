@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
     MyAwesomePackage
 
@@ -30,10 +29,6 @@ julia> five = plusTwo(3)
 ```
 """
 plusTwo(x) = return x+2
-=======
-module MyAwesomePackage
-
 greet() = print("Hello World!")
->>>>>>> dd341dcd4d7b4ab4a17c8b84d9da86f504e18d83
 
 end # module
